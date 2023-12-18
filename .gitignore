@@ -1,2 +1,3 @@
 server/lex_vec_server/target
 devcontainer
+.devcontainer/devcontainer.json
